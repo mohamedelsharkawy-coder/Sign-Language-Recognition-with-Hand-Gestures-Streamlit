@@ -1,11 +1,10 @@
 lxml==4.9.1
-numpy==1.24.4
-opencv-python-headless>=4.5.3.56
 pandas==1.5.3
-python_bidi==0.4.2
-streamlit>=1.29.0
 streamlit-webrtc==0.47.1
 twilio~=8.1.0
 streamlit-session-memo~=0.3.1
-mediapipe
 streamlit_option_menu==0.3.12
+mediapipe~=0.8.6
+streamlit==0.86.0
+numpy==1.20.2
+opencv_contrib_python==4.4.0.46
