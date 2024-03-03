@@ -1,6 +1,5 @@
 streamlit-webrtc==0.47.1
 twilio~=8.1.0
-streamlit-session-memo~=0.3.1
 streamlit_option_menu==0.3.12
 mediapipe~=0.8.6
 streamlit==0.86.0
