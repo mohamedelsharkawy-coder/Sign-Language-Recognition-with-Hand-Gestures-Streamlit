@@ -181,7 +181,7 @@ if __name__ == '__main__':
             - **Github**: [Profile](https://github.com/mohamedelsharkawy-coder)
                     """)
         st.markdown("""
-        If you have any suggestions or feedback about the app, feel free to contact me📨. Your input is valuable, and I welcome any recommendations or ideas you may have.❤️
+        If you have any suggestions or feedback about the app, feel free to contact me 📨. Your input is valuable, and I welcome any recommendations or ideas you may have.❤️
 
     """)
 
