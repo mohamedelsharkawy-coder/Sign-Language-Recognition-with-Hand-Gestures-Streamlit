@@ -143,23 +143,23 @@ if __name__ == '__main__':
 
         if value == 'Goodbye':
             goodbye_path = os.path.join('Images', 'Goodbye.jpg')
-            placeholer.image(goodbye_path, width=700)
+            placeholer.image(goodbye_path)
         
         if value == 'Hello':
             hello_path = os.path.join('Images', 'Hello.jpg')
-            placeholer.image(hello_path, width=700)
+            placeholer.image(hello_path)
 
         if value == 'Help':
             help_path = os.path.join('Images', 'Help.jpg')
-            placeholer.image(help_path, width=700)
+            placeholer.image(help_path)
 
         if value == 'Sorry':
             sorry_path = os.path.join('Images', 'Sorry.jpg')
-            placeholer.image(sorry_path, width=700)
+            placeholer.image(sorry_path)
 
         if value == 'Thankyou':
             thankyou_path = os.path.join('Images', 'Thankyou.jpg')
-            placeholer.image(thankyou_path, width=700)
+            placeholer.image(thankyou_path)
         
         st.markdown('---')
 
