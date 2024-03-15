@@ -10,7 +10,7 @@ import cv2
 import av
 import os
 
-@st.cache_resource(hash_funcs={"MyUnhashableClass": lambda _: None})
+@st.cache_resource
 def cache_objects():
     
     # create objects just focus on the hands 
