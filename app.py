@@ -21,7 +21,7 @@ def cache_objects():
     hands = mp_hands.Hands(static_image_mode=True, min_detection_confidence=0.3)
 
     # load model
-    model_file = open('model.pickle','rb')
+    model_file = open(os.path.join('model.pickle'),'rb')
     model_dict = pickle.load(model_file)
     model = model_dict['model']
 
