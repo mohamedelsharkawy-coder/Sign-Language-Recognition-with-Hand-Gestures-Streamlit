@@ -1,7 +1,7 @@
 streamlit-webrtc==0.47.1
 twilio~=8.1.0
 streamlit_option_menu==0.3.12
-mediapipe~=0.8.6
+mediapipe
 streamlit>=1.1.0
 opencv-python-headless==4.5.5.64
 scikit-learn==1.1.2
