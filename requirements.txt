@@ -5,4 +5,4 @@ mediapipe~=0.10.14
 streamlit>=1.1.0
 opencv-python-headless==4.5.5.64
 scikit-learn==1.1.2
-protobuf==3.17.3
+protobuf>=4.25.3
